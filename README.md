@@ -1,2 +1,6 @@
 # dmazuretestsite
-initial commit for testing an azure deployment 
+
+To run:
+
+)node ./bin/www 
+)--connect via a browser to localhost:3000
